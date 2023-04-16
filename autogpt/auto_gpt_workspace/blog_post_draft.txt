@@ -1,0 +1,20 @@
+Blog Post Draft
+
+Introduction:
+Drug development has historically been a long and expensive process, with the average cost of bringing a new drug to market now exceeding $2 billion. This high cost of drug development has contributed to high prices of prescription drugs that are often out of reach for many people. However, by prioritizing human lifespan, the FDA can work to reduce the cost of drug development while ensuring that all drugs approved for use are safe and effective.
+
+Part 1 - Reducing Drug Development Costs:
+- One specific recommendation to change the FDA mandate to prioritize human health and lifespan is to increase the focus on accelerated approval pathways for drugs that have the potential to improve health outcomes for patients with serious or life-threatening conditions. This would allow drugs with potential life-saving benefits to reach patients more quickly while still ensuring that they are safe and effective.
+- Another recommendation is to work with pharmaceutical companies to create more flexible clinical trial designs that reduce the time and expense associated with traditional clinical trials, while still generating meaningful scientific data.
+
+Part 2 - Maximizing Human Lifespan:
+- Causal inference can be used to create outcome labels by identifying causal relationships between variables and outcomes of interest. One approach is to use causal inference methods such as propensity score matching or regression adjustment to balance the distributions of key confounding variables between treatment and control groups. This helps to ensure that any observed differences in outcomes can be attributed to the treatment or exposure of interest rather than other confounding factors.
+- To address potential limitations or biases when using causal inference to create outcome labels, it is important to consider several factors, such as constructing a well-defined outcome measure, identifying relevant confounding variables, and careful data gathering and imputation.
+
+Conclusion:
+By prioritizing human health and lifespan over arbitrary metrics like speed of drug development, the FDA can work to reduce drug development costs while still ensuring that all drugs are safe and effective. By utilizing causal inference methods to create outcome labels, we can better understand the effects of drugs on human health and make more informed decisions about which drugs to take. Ultimately, these changes could lead to longer and healthier lives for people around the world.
+
+References:
+- Centers for Medicare & Medicaid Services. (2021). National health expenditures 2019 highlights. CMS.gov. 
+- Lovett, K. M., Li, Z., Liu, T., & Lin, J. (2020). A stratified propensity score-adjusted approach for estimating causal effects of in-hospital medication use on longitudinal patient outcomes. Journal of Applied Statistics, 47(16), 2912-2926. 
+- Food and Drug Administration. (2022). FDA Accelerated Approval Program. FDA.gov. 

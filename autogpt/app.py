@@ -127,7 +127,13 @@ def execute_command(command_name: str, arguments):
                 google_result = google_official_search(arguments["input"])
             else:
                 google_result = google_search(arguments["input"])
-            safe_message = google_result.encode("utf-8", "ignore")
+
+            # google_result can be a list or a string depending on the search results
+            if isinstance(google_result, list):
+                safe_message = [google_result_single.encode('utf-8', 'ignore') for google_result_single in google_result]
+            else:
+                safe_message = google_result.encode('utf-8', 'ignore')
+                
             return str(safe_message)
         elif command_name == "memory_add":
             return memory.add(arguments["string"])

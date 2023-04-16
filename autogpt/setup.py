@@ -27,7 +27,8 @@ def prompt_user() -> AIConfig:
     )
     ai_name = utils.clean_input("AI Name: ")
     if ai_name == "":
-        ai_name = "Entrepreneur-GPT"
+        # ai_name = "Entrepreneur-GPT"
+        ai_name = "FDA-GPT"
 
     logger.typewriter_log(
         f"{ai_name} here!", Fore.LIGHTBLUE_EX, "I am at your service.", speak_text=True
@@ -42,8 +43,9 @@ def prompt_user() -> AIConfig:
     )
     ai_role = utils.clean_input(f"{ai_name} is: ")
     if ai_role == "":
-        ai_role = "an AI designed to autonomously develop and run businesses with the"
-        " sole goal of increasing your net worth."
+        # ai_role = "an AI designed to autonomously develop and run businesses with the"
+        # " sole goal of increasing your net worth."
+        ai_role = "an AI designed to autonomously develop a campaign to optimize the FDA in order to maximize average human health and happiness."
 
     # Enter up to 5 goals for the AI
     logger.typewriter_log(

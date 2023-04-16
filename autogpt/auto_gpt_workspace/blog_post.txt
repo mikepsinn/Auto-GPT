@@ -1,0 +1,15 @@
+Introduction:
+
+Drug development is a complex process that can take years and cost billions of dollars. While safety and effectiveness are important factors in this process, they should not be the sole focus. By prioritizing human health and lifespan, the FDA can work to reduce the cost of drug development and improve outcomes for individuals and society as a whole. This blog post will provide an overview of how to revise the FDA mandate to maximize human lifespan and explain the benefits of the revised mandate.
+
+Main Section:
+
+The first step in revising the FDA mandate is to prioritize human health and lifespan over safety and effectiveness. This means focusing on the drugs that have the greatest potential to benefit public health and reducing redundant or unnecessary clinical trials. It also means increasing collaboration between government agencies, academia, and industry to share resources and expedite drug development.
+
+To make this revised mandate more understandable, it can be broken down into several key parts. First, the FDA should develop an open-source app called the Personal FDA. The app should aggregate user data on food and drug intake and various health outcomes in order to analyze the data using causal inference. Second, this data should be shared to a Global FDA where it is used to create Outcome Labels. These labels will list the personalized positive and negative effects of every food and drug on every aspect of human health. 
+
+This revised mandate benefits both individuals and society. By making pharmaceutical research more efficient and effective, drugs that have the potential to benefit public health can be developed more quickly, extending human lifespan and improving quality of life. Additionally, personalized outcome labeling can help individuals make more informed decisions about their health and wellbeing, while also providing valuable data to the healthcare industry as a whole.
+
+Conclusion:
+
+By prioritizing human health and lifespan over safety and effectiveness, the FDA can create a more effective and efficient drug development process that truly benefits individuals and society. The revised mandate outlined in this post can be a valuable step in this direction, but it is also important to remember that change will only happen through collaboration and shared responsibility. By working together to prioritize human health and lifespan, we can create a better future for all.
