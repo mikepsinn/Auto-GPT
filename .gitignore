@@ -21,6 +21,7 @@ ingest-me
 logs
 *.log
 *.mp3
+mem.sqlite3
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
